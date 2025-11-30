@@ -48,7 +48,6 @@ The main goals of this project are:
 | **Email**           | VARCHAR    | Email address                  |
 | **RegistrationDate**| DATE       | Date when customer registered  |
 
----
 
 ## 2️⃣ Drivers Table
 
@@ -58,7 +57,6 @@ The main goals of this project are:
 | **Name**      | VARCHAR    | Driver name              |
 | **JoinDate**  | DATE       | Driver joining date      |
 
----
 
 ## 3️⃣ Cabs Table
 
@@ -69,7 +67,6 @@ The main goals of this project are:
 | **VehicleType** | VARCHAR    | Sedan, SUV, etc.                  |
 | **PlateNumber** | VARCHAR    | Vehicle registration number       |
 
----
 
 ## 4️⃣ Bookings Table
 
@@ -83,7 +80,6 @@ The main goals of this project are:
 | **PickupLocation**  | VARCHAR    | Start location               |
 | **DropoffLocation** | VARCHAR    | End location                 |
 
----
 
 ## 5️⃣ TripDetails Table
 
@@ -96,7 +92,6 @@ The main goals of this project are:
 | **DistanceKM** | FLOAT      | Total kilometers traveled   |
 | **Fare**       | FLOAT      | Fare charged                |
 
----
 
 ## 6️⃣ Feedback Table
 
@@ -122,11 +117,7 @@ The main goals of this project are:
 
 # 🖼️ ER Diagram
 
-<img width="1164" height="751" alt="image" src="https://github.com/user-attachments/assets/d8403d45-b571-4c8e-94a7-008945176de2" />
-
-
-
-
+<img width="751" height="651" alt="image" src="https://github.com/user-attachments/assets/d8403d45-b571-4c8e-94a7-008945176de2" />
 
 ---
 
